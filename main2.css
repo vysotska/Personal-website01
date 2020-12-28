@@ -1,0 +1,49 @@
+
+body
+{
+  margin:0;
+}
+nav
+{
+  background-color:royalblue;
+  height:75px;
+}
+header
+{
+  height:400px;
+  background-color:lightskyblue;
+}
+section
+ {
+  height:700px;
+  background-color:grey;
+  margin:75px 100px 75px 100px;
+ }
+ .prefooter
+  {
+    height:40px;
+    background-color:silver;
+  }
+.footer
+{
+  height:100px;
+  background-color:black;
+}
+.yellow
+{
+  height:200px;
+  background-color:khaki;
+  margin:0;
+  margin-bottom:75px;
+}
+.box
+{
+  height:400px;
+  background-color:tomato;
+  width:48%;
+}
+.bt
+{
+  display:flex;
+  justify-content:space-between;
+}
